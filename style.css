@@ -1,0 +1,135 @@
+body{
+    background-color: black;
+}
+
+.elchy{
+    text-align: center;
+}
+
+.elchy h1{
+    font-size: 2em;
+    color: white;
+}
+
+.elchy p{
+    font-size: 1.2em;
+    color: white;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 5%;
+}
+
+.c{
+    height: 300px;
+    background-color: lawngreen;
+    width: 300px;
+    background-image: url(images/IMG_20240423_105507.jpg);
+    background-size: cover;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.c p{
+    text-align: center;
+    margin-top: 110%;
+    background-color: rgb(238, 14, 70);
+    border-radius: 0px 0px 20px 20px;
+    height: 40%;
+    color: white;
+}
+
+.c p strong{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.r{  
+    height: 300px;
+    background-color: lightcoral;
+    width: 300px;
+    background-image: url(images/unsplash_xmSWVeGEnJw.png);
+    background-size: cover;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.r p{
+    text-align: center;
+    margin-top: 110%;
+    background-color: rgb(238, 14, 70);
+    border-radius: 0px 0px 20px 20px;
+    height: 40%;
+    color: white;
+}
+
+.r p strong{
+    font-size: 1.5em;
+}
+
+.u{
+    height: 300px;
+    background-color: lightseagreen;
+    width: 300px;
+    background-image: url(images/robbie-lens.png);
+    background-size: cover;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.u p{
+    text-align: center;
+    margin-top: 110%;
+    background-color: rgb(238, 14, 70);
+    border-radius: 0px 0px 20px 20px;
+    height: 40%;
+    color: white;
+}
+
+.u p strong{
+    font-size: 1.5em;
+}
+
+.e{
+    height: 300px;
+    background-color: maroon;
+    width: 300px;
+    background-image: url(images/unsplash__cvwXhGqG-o.png);
+    background-size: cover;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.e p{
+    text-align: center;
+    margin-top: 110%;
+    background-color: rgb(238, 14, 70);
+    border-radius: 0px 0px 20px 20px;
+    height: 40%;
+    color: white;
+}
+
+.e p strong{
+    font-size: 1.5em;
+}
+
+.o{
+    height: 300px;
+    background-color: mediumblue;
+    width: 300px;
+    background-image: url(images/unsplash_nSBl2cfwnmE.png);
+    background-size: cover;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.o p{
+    text-align: center;
+    margin-top: 110%;
+    background-color: rgb(238, 14, 70);
+    border-radius: 0px 0px 20px 20px;
+    height: 40%;
+    color: white;
+}
+
+.o p strong{
+    font-size: 1.5em;
+}
